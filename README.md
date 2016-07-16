@@ -1,2 +1,3 @@
 # hello-world
-Trying to get my first green mark ;)
+
+On my way to getting my first green bar
